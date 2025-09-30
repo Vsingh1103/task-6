@@ -1,6 +1,5 @@
 # task-6
 # SQL Subqueries Practice
-
 ##  Objective  
 - Learn to use **subqueries** in different SQL clauses: `SELECT`, `WHERE`, and `FROM`.  
 - Strengthen query-building skills with **scalar**, **correlated**, and **nested logic**.  
